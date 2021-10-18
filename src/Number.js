@@ -1,5 +1,5 @@
-const Number = ({ number }) => {
-  return <div {text} />;
+const Number = ({ text }) => {
+  return <div>{text}</div>;
 };
 
 export default Number;
